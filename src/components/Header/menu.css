@@ -1,0 +1,8 @@
+a[href].menu-item {
+    color: #fff;
+    text-decoration: none;
+}
+
+.menu-item.active{
+    font-weight: bold;
+}
